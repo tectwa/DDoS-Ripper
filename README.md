@@ -74,7 +74,7 @@ Thanks.
 
 ●🖥MAC
 
-# Modified by @palahsu
+# Modified by @t3ctw4
 
 For any kind of help, support, payment, suggetion and request ask me on Telegram:
 

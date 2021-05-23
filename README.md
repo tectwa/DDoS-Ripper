@@ -1,3 +1,4 @@
+
 # DDoS-Ripper
 
 # What is a DDoS Attack?
@@ -8,7 +9,7 @@ From a higher level, the DDOS attack is like an unexpected traffic jam stuck on 
 
 ## NOTE (Please, make sure you have installed python 3 )
 
-![dddd](https://user-images.githubusercontent.com/49250151/96265488-57e53d00-0f7a-11eb-8936-ce2e9a2c42cd.PNG)
+![49250151:96265488-57e53d00-0f7a-11eb-8936-ce2e9a2c42cd](https://user-images.githubusercontent.com/84345690/119267503-7b174f80-bc21-11eb-9d7d-eb54c87219f6.png)
 
 ## For Termux
 To use the DRipper type the following commands in Termux:
